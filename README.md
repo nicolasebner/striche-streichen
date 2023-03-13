@@ -1,6 +1,25 @@
-# strichestreichen
+# Striche streichen
 
-A new Flutter project.
+"Striche streichen" also called: Nim-Spiel or Marienbad is a simple "Tic-Tac-Toe" like game, just better.
+
+Two player play against each other.
+
+Rules:
+
+- The players stroke as many lines as they like one after another
+  - on one go you are only allowed to stroke lines in one row
+  - if one of the lines in the middle is already stoked you can not stroke over it
+- The player who strokes the last line looses
+
+Usually you play this with pen and paper.
+This Code is the most basic implementation for this game as a Website using Flutter.
+
+## Try it [here](http://streichen.nicolasebner.de/#/)
+
+<br>
+<br>
+
+---
 
 ## Getting Started
 
